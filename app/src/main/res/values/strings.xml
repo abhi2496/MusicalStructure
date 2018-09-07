@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="title_home">Home</string>
+    <string name="title_collections">Collections</string>
+    <string name="title_fav">Favorites</string>
+
+    <string name="song_name">Song Name</string>
+    <string name="name_of_song">Name of Song</string>
+    <string name="artist">Artist</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="genre">Genre</string>
+    <string name="genre_type">Genre Type</string>
+    <string name="romance">Romance</string>
+    <string name="work_out">Work Out</string>
+    <string name="ghazal">Ghazal</string>
+    <string name="edm">EDM</string>
+    <string name="classical">Classical</string>
+    <string name="no_favorites_yet">No Favorites yet!</string>
+    <string name="song_perfect">Perfect</string>
+    <string name="song_gerua">Gerua</string>
+    <string name="song_raabta">Raabta</string>
+    <string name="song_jee_karda">Jee Karda</string>
+    <string name="song_radioactive">RadioActive</string>
+    <string name="song_numb_encore">Numb/Encore</string>
+    <string name="song_word_hard">Work Hard, Play Hard</string>
+    <string name="song_under_control">Under Control</string>
+    <string name="song_jhuki_jhuki_si_nazar">Jhuki Jhuki Si Nazar</string>
+    <string name="song_ahista">Ahista</string>
+    <string name="genre_romance">Romance</string>
+    <string name="genre_workout">Workout</string>
+    <string name="genre_edm">EDM</string>
+    <string name="genre_ghazal">Ghazal</string>
+    <string name="artist_ed_sheeran">Ed Shheran</string>
+    <string name="artist_arijit_antara">Arijit Singh, Antara Mitra</string>
+    <string name="artist_arijit">Arijit Singh</string>
+    <string name="artist_divya">Divya Kumar</string>
+    <string name="artist_imagine_dragons">Imagine Dragons</string>
+    <string name="artist_jay_z_linkin">Jay-Z/Linkin Park</string>
+    <string name="artist_tiesto_kay">Tiesto, Kay</string>
+    <string name="artist_calvin">Calvin Harris</string>
+    <string name="artist_jagjit">Jagjit Singh</string>
+    <string name="artist_pankaj">Pankaj Udaas</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FFDE03</color>
+    <color name="dock_bckgnd">#B00020</color>
+    <color name="gradient_start_color">#d510a1e4</color>
+    <color name="gradient_end_color">#0771fc</color>
+    <color name="romance_bck">#B00020</color>
+    <color name="work_out_bck">#8800A0</color>
+    <color name="ghazal_bck">#379237</color>
+    <color name="edm_bck">#09fdd0</color>
+    <color name="classical_bck">#FD8E09</color>
+</resources>
+<!--
+<color name="colorPrimary">#0336FF</color>
+<color name="colorPrimaryDark">#303F9F</color>
+<color name="colorAccent">#FFDE03</color>-->
