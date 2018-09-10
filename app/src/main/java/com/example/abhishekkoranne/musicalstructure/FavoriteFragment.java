@@ -10,8 +10,6 @@ import android.view.ViewGroup;
 
 public class FavoriteFragment extends Fragment {
 
-    private OnFragmentInteractionListener mListener;
-
     public FavoriteFragment() {
         // Required empty public constructor
     }
@@ -30,9 +28,5 @@ public class FavoriteFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_favorite, container, false);
-    }
-
-    public interface OnFragmentInteractionListener {
-        void onFragmentInteraction(Uri uri);
     }
 }

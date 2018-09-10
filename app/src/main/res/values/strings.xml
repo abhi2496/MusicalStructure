@@ -40,4 +40,5 @@
     <string name="artist_calvin">Calvin Harris</string>
     <string name="artist_jagjit">Jagjit Singh</string>
     <string name="artist_pankaj">Pankaj Udaas</string>
+    <string name="now_playing">Now Playing</string>
 </resources>

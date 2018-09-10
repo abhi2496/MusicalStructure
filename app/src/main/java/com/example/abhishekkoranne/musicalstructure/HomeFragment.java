@@ -72,20 +72,5 @@ public class HomeFragment extends Fragment {
         });
 
         listView.setAdapter(songAdapter);
-
-/*
-        for (int i=0; i<songList.size(); i++)
-        {
-            if (songList.get(i).getmSongGenre().toString().equals("Romance"))
-                listView.getChildAt(i).setBackgroundResource(R.color.colorAccent);
-            else if (songList.get(i).getmSongGenre().toString().equals("EDM"))
-                listView.setBackgroundResource(R.color.colorPrimary);
-        }
-
-*/
-    }
-
-    public interface OnFragmentInteractionListener {
-        void onFragmentInteraction(Uri uri);
     }
 }
